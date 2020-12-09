@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 author: Sam Szuflita
 description: It's a blog
+github:
+  is_project_page: false
