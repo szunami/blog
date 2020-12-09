@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-permalink: /hi/
+# permalink: /hi/
 ---
 
 # I'm starting a blog
