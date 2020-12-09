@@ -1,9 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-# permalink: /hi/
+title:  "Hello world"
 ---
 
-# I'm starting a blog
+Welcome, dear reader.
 
-## And there is nothing you can do to stop me.
+I am mostly using this blog to store content I produce. I want to rip off the bandaid of creating a blog, so that I have a place to put things.
+
+The content will likely be sporadic and idiosyncratic, and everything is subject to change.
+
+Thank you for your time,
+
+Sam
