@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hello world"
+author: Sam Szuflita
 ---
 
 Welcome, dear reader.
