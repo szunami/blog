@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Hello world
+tag: meta
 ---
 
 Welcome, dear reader.
