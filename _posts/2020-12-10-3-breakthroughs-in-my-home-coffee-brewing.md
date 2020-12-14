@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Breakthroughs In My Home Coffee Brewing
+title: 3 Lessons Learned in Brewing Coffee
 tag: coffee
 ---
 
