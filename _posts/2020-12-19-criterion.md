@@ -19,7 +19,7 @@ When writing performance sensitive rust, I often have hypotheses about how to ma
 
 ## How
 
-Criterion has great support for [measuring changes in performance](https://bheisler.github.io/criterion.rs/book/user_guide/command_line_output.html#change). As the Criterion book mentions, performance can vary for [many reasons](https://bheisler.github.io/criterion.rs/book/user_guide/command_line_output.html#a-note-of-caution). To reduce the noise in my benchmarking, I set up a Github workflow that runs my benchmarks in comparison with the `main` branch. In my experience, Github hosted runners produce consistent performance results (Check out [this](https://github.com/szunami/criterion_demo/pull/2/checks) dummy change: )
+Criterion has great support for [measuring changes in performance](https://bheisler.github.io/criterion.rs/book/user_guide/command_line_output.html#change). As the Criterion book mentions, performance can vary for [many reasons](https://bheisler.github.io/criterion.rs/book/user_guide/command_line_output.html#a-note-of-caution). To reduce the noise in my benchmarking, I set up a Github workflow that runs my benchmarks in comparison with the `main` branch. In my experience, Github hosted runners produce consistent performance results (Check out [this](https://github.com/szunami/criterion_demo/pull/2/checks) dummy change).
 
 ## Caveats
 
