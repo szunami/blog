@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Evaluating Optimizations With Criterion and Github Actions
+excerpt: Using CI runners to get reliable measurements
 tag: rust
 ---
 
