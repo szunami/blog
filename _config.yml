@@ -2,5 +2,6 @@ title: szublogi
 theme: jekyll-theme-minimal
 author: Sam Szuflita
 description: a write only weblog
+google_analytics: UA-185818088-1
 github:
   is_project_page: false
