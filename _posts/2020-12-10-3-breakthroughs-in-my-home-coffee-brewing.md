@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 3 Lessons Learned in Brewing Coffee
+excerpt: Reflecting on several years of coffee
 tag: coffee
 ---
 
