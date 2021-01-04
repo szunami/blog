@@ -1,3 +1,8 @@
+---
+layout: default
+hide_sidebar: true
+---
+
 # Sam Szuflita
 
 💌 [sam.szuflita@gmail.com](mailto:sam.szuflita@gmail.com)  
