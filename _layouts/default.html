@@ -23,6 +23,9 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <div>
+
+          <p><a href="/blog/resume"> Resume </a></p>
+
           {% for post in site.posts %}
               <p><a href="/blog{{ post.url }}">{{ post.title }}</a></p>
           {% endfor %}
