@@ -1,6 +1,6 @@
 # Sam Szuflita
 
-💌 sam.szuflita@gmail.com  
+💌 [sam.szuflita@gmail.com](mailto:sam.szuflita@gmail.com)  
 ☎️ (917)-324-9276  
 ℹ️ szunami.github.io
 
