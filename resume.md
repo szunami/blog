@@ -7,7 +7,7 @@ hide_sidebar: true
 
 💌 [sam.szuflita@gmail.com](mailto:sam.szuflita@gmail.com)  
 ☎️ (917)-324-9276  
-🕸️ [szunami.github.io](szunami.github.io)
+🕸️ [szunami.github.io](https://szunami.github.io)
 
 # 🎯 Objective
 
