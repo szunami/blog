@@ -9,15 +9,15 @@ hide_sidebar: true
 ☎️ (917)-324-9276  
 🕸️ [szunami.github.io](https://szunami.github.io)
 
-# 🎯 Objective
+## 🎯 Objective
 
 To help build a more equitable world
 
-# 📚 Education
+## 📚 Education
 
 Caltech 2015: B.S. in Computer Science With Honors
 
-# 💼 Work
+## 💼 Work
 
 ### Senior Software Engineer @ [Alloy](https://alloy.us/)
 
@@ -36,7 +36,7 @@ Caltech 2015: B.S. in Computer Science With Honors
 - developed a service that infers key relationships between datasets using Apache Spark which is now patented
 - worked with non-technical clients to develop large scale data pipelines.
 
-# 🛠️ Tools
+## 🛠️ Tools
 
 Languages: Rust, Go, Java, TypeScript, SQL, Python, Ruby  
 Frameworks: Rails, React, Spark, MapReduce  
