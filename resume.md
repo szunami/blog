@@ -41,7 +41,7 @@ Caltech 2015: B.S. in Computer Science With Honors
 - developed a service that infers key relationships between datasets using Java and Apache Spark which is now patented
 - worked with non-technical clients to develop large scale data pipelines using python and SQL
 
-##  🛠️Tools
+## 🛠️ Tools
 
 Languages: Rust, Go, Java, TypeScript, SQL, Python, Ruby  
 Frameworks: Rails, React, Spark, MapReduce  
