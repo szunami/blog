@@ -5,44 +5,42 @@ hide_sidebar: true
 
 # Sam Szuflita
 
-💌 [sam.szuflita@gmail.com](mailto:sam.szuflita@gmail.com)  
-☎️ (917)-324-9276  
-🕸️ [szunami.github.io](https://szunami.github.io)
+[sam.szuflita@gmail.com](mailto:sam.szuflita@gmail.com) | (917)-324-9276 | [szunami.github.io](https://szunami.github.io)
 
-## 🎯 Objective
+### Objective
 
 To help build a more equitable world
 
-## 📚 Education
+### Education
 
-Caltech 2015: B.S. in Computer Science With Honors
+Caltech: BSc in Computer Science With Honors (Aug 2011 - May 2015)
 
-## 💼 Work
+### Experience
 
-### Senior Software Engineer @ [Alloy](https://alloy.us/)
+#### New Jersey Office of Innovation (Feb 2021 - Current)
+- built a data pipeline that integrated COVID vaccine provider data to provide New Jerseyans with realtime information about vaccine availability
+- used NodeJS, GitHub Actions, and AWS Lambda
 
-- designed software and processes to produce a national voterfile using Go and Amazon Elastic MapReduce
-- built a Vote By Mail data pipeline using Go and Amazon Athena
+#### Senior Software Engineer @ [Alloy](https://alloy.us/) (May 2020 - Feb 2021)
 
-### Lead Engineer @ [Alice](https://www.thisisalice.com/)
+- designed software and processes to produce a national voterfile
+- used Go and the AWS ecosystem, especially ECS, ElasticMapReduce, and Terraform
 
+#### Lead Engineer @ [Alice](https://www.thisisalice.com/) (Feb 2019 - May 2020)
+
+- built and designed benefits software for hourly workers
 - led a team of 8 distributed engineers through an agile process
-- used Rails and React to rapidly rebuild an enrollment flow
-- designed & implemented financial logic
-- built a data warehouse using Google BigQuery
+- used Rails, React, SQL, and AWS ecosystem
 
-### Privacy & Civil Liberties Engineer @ [Palantir](https://www.palantir.com/)
+#### Lead Software Engineer @ [Palantir](https://www.palantir.com/) (Aug 2015 - Dec 2018)
 
-- developed tools for sensitive data detection and governance using Java and Typescript
-- consulted internally & externally on data privacy
+- developed tools for sensitive data detection and governance
+- developed a patented service for inferring key relationships
+- worked with non-technical clients to develop large scale data pipelines
+- used Java, Typescript, Python, SQL
 
+### Skills
 
-### Lead Software Engineer @ [Palantir](https://www.palantir.com/)
-- developed a service that infers key relationships between datasets using Java and Apache Spark which is now patented
-- worked with non-technical clients to develop large scale data pipelines using python and SQL
-
-## 🛠️ Tools
-
-Languages: Rust, Go, Java, TypeScript, SQL, Python, Ruby  
-Frameworks: Rails, React, Spark, MapReduce  
-Tools: AWS, Google Cloud Suite, Docker, Terraform
+Languages: TypeScript, Rust, Go, Java, SQL, Python, Ruby  
+Frameworks: NodeJS, React, Rails, Spark, MapReduce  
+Tools: Github, AWS, Google Cloud Suite, Docker, Terraform
