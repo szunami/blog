@@ -18,24 +18,24 @@ Caltech: BSc in Computer Science With Honors (Aug 2011 - May 2015)
 ### Experience
 
 #### [New Jersey Office of Innovation](https://innovation.nj.gov/) (Feb 2021 - Current)
-- built a data pipeline that integrated COVID vaccine provider data to provide New Jerseyans with realtime information about vaccine availability
+- built a tool that provides New Jersey residents with realtime information about vaccine availability
 - used NodeJS, GitHub Actions, and AWS Lambda
 
 #### Senior Software Engineer @ [Alloy](https://alloy.us/) (May 2020 - Feb 2021)
 
-- designed software and processes to produce a national voterfile
+- built a data pipeline that produces a national voterfile for use in get out the vote campaigns
 - used Go and the AWS ecosystem, especially ECS, ElasticMapReduce, and Terraform
 
 #### Lead Engineer @ [Alice](https://www.thisisalice.com/) (Feb 2019 - May 2020)
 
-- built and designed benefits software for hourly workers
+- built benefits software for hourly workers
 - led a team of 8 distributed engineers through an agile process
 - used Rails, React, SQL, and AWS ecosystem
 
 #### Lead Software Engineer @ [Palantir](https://www.palantir.com/) (Aug 2015 - Dec 2018)
 
-- developed tools for sensitive data detection and governance
-- developed a patented service for inferring key relationships
+- built tools for sensitive data detection and governance
+- built a patented service for inferring key relationships between datasets
 - worked with non-technical clients to develop large scale data pipelines
 - used Java, Typescript, Python, SQL
 
