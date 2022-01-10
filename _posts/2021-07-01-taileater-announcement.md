@@ -4,9 +4,9 @@ title:  Introducing taileater
 tag: rust, gamedev
 ---
 
-![logo of a pixellated snake attempting to eat it's own tail](taileater.gif)
-
 I just released taileater, a puzzle game that I have been working on for the last month. It can be played for free [here](https://szunami.itch.io/taileater)
+
+![logo of a pixellated snake attempting to eat it's own tail](taileater.gif)
 
 I have also released the source code for it [here](https://github.com/szunami/taileater/), if that is your thing.
 
