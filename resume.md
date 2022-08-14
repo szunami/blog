@@ -18,7 +18,7 @@ Caltech: BSc in Computer Science With Honors (Aug 2011 - May 2015)
 #### Experience
 
 ##### Senior Software Engineer @ [Ride Report](https://www.ridereport.com/) (July 2021 - July 2022)
-- build and designed tools to analyze micromobility data
+- built and designed tools to analyze micromobility data
 - used Python, Django, and React
 
 
