@@ -17,6 +17,11 @@ Caltech: BSc in Computer Science With Honors (Aug 2011 - May 2015)
 
 #### Experience
 
+##### Senior Software Engineer @ [Ride Report](https://www.ridereport.com/) (July 2021 - July 2022)
+- build and designed tools to analyze micromobility data
+- used Python, Django, and React
+
+
 ##### Innovation Fellow @ [New Jersey Office of Innovation](https://innovation.nj.gov/) (Feb 2021 - Current)
 - built a tool that provides New Jersey residents with realtime information about vaccine availability
 - used NodeJS, GitHub Actions, and AWS Lambda
@@ -42,5 +47,5 @@ Caltech: BSc in Computer Science With Honors (Aug 2011 - May 2015)
 #### Skills
 
 Languages: TypeScript, Rust, Go, Java, SQL, Python, Ruby  
-Frameworks: NodeJS, React, Rails, Spark, MapReduce  
+Frameworks: Django, NodeJS, React, Rails, Spark, MapReduce  
 Tools: Github, AWS, Google Cloud Suite, Docker, Terraform
