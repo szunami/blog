@@ -22,7 +22,7 @@ Caltech: BSc in Computer Science With Honors (Aug 2011 - May 2015)
 - used Python, Django, and React
 
 
-##### Innovation Fellow @ [New Jersey Office of Innovation](https://innovation.nj.gov/) (Feb 2021 - Current)
+##### Innovation Fellow @ [New Jersey Office of Innovation](https://innovation.nj.gov/) (Feb 2021 - June 2021)
 - built a tool that provides New Jersey residents with realtime information about vaccine availability
 - used NodeJS, GitHub Actions, and AWS Lambda
 
