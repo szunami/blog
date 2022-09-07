@@ -4,7 +4,7 @@ title:  Jump Emblem
 tag: unity, gamejam, gamedev, c#
 ---
 
-This past week I participated in the [Newbies Game Jam](https://itch.io/jam/newbies2) and built a game (a demo really) called [Jump Emblem](https://itch.io/jam/newbies2).
+This past week I participated in the [Newbies Game Jam](https://itch.io/jam/newbies2) and built a game (a demo really) called [Jump Emblem](https://szunami.itch.io/jump-emblem).
 
 ### Game Design Notes
 
