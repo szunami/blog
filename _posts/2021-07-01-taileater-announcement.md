@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Introducing taileater
+title:  taileater
 tag: rust, gamedev
 ---
 

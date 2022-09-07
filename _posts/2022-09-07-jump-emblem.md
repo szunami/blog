@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Introducing taileater
+title:  Jump Emblem
 tag: unity, gamejam, gamedev, c#
 ---
 
