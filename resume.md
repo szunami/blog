@@ -46,6 +46,6 @@ Caltech: BSc in Computer Science With Honors (Aug 2011 - May 2015)
 
 #### Skills
 
-Languages: TypeScript, Rust, Go, Java, SQL, Python, Ruby  
-Frameworks: Django, NodeJS, React, Rails, Spark, MapReduce  
-Tools: Github, AWS, Google Cloud Suite, Docker, Terraform
+Languages: TypeScript, Rust, Go, Java, SQL, Python, Ruby, Csharp
+Frameworks: Django, NodeJS, React, Rails, Spark, MapReduce
+Tools: Github, AWS, Docker, Terraform, Unity
