@@ -17,7 +17,7 @@ Caltech: BSc in Computer Science With Honors (Aug 2011 - May 2015)
 
 #### Experience
 
-#### GameDev on [This Side up](https://store.steampowered.com/app/2617930/This_Side_Up/) (2023)
+##### GameDev on [This Side up](https://store.steampowered.com/app/2617930/This_Side_Up/) (2023)
 - independently built and published a video game
 - used Godot and GDScript
 
@@ -50,6 +50,5 @@ Caltech: BSc in Computer Science With Honors (Aug 2011 - May 2015)
 
 #### Skills
 
-Languages: TypeScript, Rust, Go, Java, SQL, Python, Ruby, Csharp
-Frameworks: Django, NodeJS, React, Rails, Spark, MapReduce
-Tools: Github, AWS, Docker, Terraform, Unity
+Languages: TypeScript, Rust, GDScript, Python, C#, Go, Java, SQL, Ruby
+Frameworks: Godot, Unity, Django, NodeJS, React, Rails, Spark
