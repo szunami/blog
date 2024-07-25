@@ -19,7 +19,8 @@ A couple (unimplemented) mechanics to jump off from this demo:
 
 This demo also left some other key questions unanswered:
 1. What is the player's goal? Why?
-2. Are there enough interesting challenges to keep the game fun and interesting? Would the mechanics lead to puzzles that are overly rigid and tedious?
+2. Are there enough interesting challenges to keep the game fun and interesting?
+3. Would the mechanics lead to puzzles that are overly rigid and tedious?
 
 
 ### Implementation Notes
