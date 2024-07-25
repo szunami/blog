@@ -17,6 +17,10 @@ Caltech: BSc in Computer Science With Honors (Aug 2011 - May 2015)
 
 #### Experience
 
+#### GameDev on [This Side up](https://store.steampowered.com/app/2617930/This_Side_Up/) (2023)
+- independently built and published a video game
+- used Godot and GDScript
+
 ##### Senior Software Engineer @ [Ride Report](https://www.ridereport.com/) (July 2021 - July 2022)
 - built and designed tools to analyze micromobility data
 - used Python, Django, and React
